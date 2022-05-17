@@ -1,1 +1,1 @@
-"# AI-Masterclass-Notes" 
+Jupyter Notebook notes for AI Masterclass course!
